@@ -3,7 +3,7 @@ import { images } from 'Utilities/common'
 
 const NavBar = () => (
   <div className="navbar">
-    <img src={images.toskaLogo} alt="toska" />
+    <img src={images.jpaLogo} alt="jpa" />
   </div>
 )
 
